@@ -1,4 +1,12 @@
 # Digi Embedded Yocto (DEY) 3.0
+
+![Version](https://img.shields.io/github/v/tag/digi-embedded/dey-manifest)
+![Activity](https://img.shields.io/github/commits-since/digi-embedded/meta-digi/bc843e239d4ccad86f6ceb61714ce2474ec7f00f/zeus)
+![Activity](https://img.shields.io/github/last-commit/digi-embedded/meta-digi/zeus)
+![Release](https://img.shields.io/github/release-date/digi-embedded/dey-manifest)
+![GitHub](https://img.shields.io/github/watchers/digi-embedded/meta-digi?label=Watch&style=social)
+![Social](https://img.shields.io/twitter/follow/digidotcom?label=Follow)
+
 ## Release 3.0-r3
 
 This document provides information about Digi Embedded Yocto,
